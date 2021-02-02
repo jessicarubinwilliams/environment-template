@@ -10,6 +10,8 @@
 
 ## Technologies Used
 
+* _Babel/core 7.6.4_
+* _Babel/plugin-transform-modules-commonjs 7.6.0_
 * _Bootstrap 4.6.0_
 * _clean-webpack-plugin 3.0.0_
 * _CSS_
@@ -20,6 +22,7 @@
 * _HTML5_
 * _html-webpack-plugin 3.2.0_
 * _JavaScript_
+* _Jest 24.9.0_
 * _jQuery 3.5.1_
 * _Node Package Manager 6.14.9_
 * _popper.js 1.16.1_
