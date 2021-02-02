@@ -46,7 +46,7 @@ _This is a detailed description of your application. Give as much detail as need
 * _Clone this project with the following git command `$ git clone <https://github.com/jessicarubinwilliams/project>`_
 * _Navigate to the top level of the repository with the command `$ cd project`_
 * _Recreate project environment with terminal command `$ npm install`_
-* _Create production environment with terminal command `$npm run build`_
+* _Create production environment with terminal command `$ npm run build`_
 * _Open project in the browser of your choice with the command `$ npm run start`_.
 
 _Alternatively,_
