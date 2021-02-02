@@ -18,7 +18,6 @@
 * _css-loader 3.2.0_
 * _eslint 6.3.0_
 * _eslint-loader 3.0.0_
-* _GitHub_
 * _HTML5_
 * _html-webpack-plugin 3.2.0_
 * _JavaScript_
@@ -30,7 +29,6 @@
 * _webpack 4.39.3_
 * _webpack-cli 3.3.8_
 * _webpack-dev-server 3.11.2_
-* _VSCode_
 
 ## Description
 
