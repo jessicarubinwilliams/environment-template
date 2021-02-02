@@ -66,14 +66,6 @@ _The program should handle:_
 _When it receives:_
 _It should return:_
 
-
-## Tests
-
-Describe: yourFunctionName()
-Test: "It does something"
-Expect (yourFunctionName("given input")).toEqual("expected output");
-
-
 ## Known Bugs
 
 * _Any known issues_
