@@ -49,6 +49,7 @@ _This is a detailed description of your application. Give as much detail as need
 * _Recreate project environment with terminal command `$ npm install`_
 * _Create production environment with terminal command `$ npm run build`_
 * _Open project in the browser of your choice with the command `$ npm run start`_
+* _Run tests in Jest with the command `$ npm test`_
 
 _Alternatively,_
 
